@@ -1,4 +1,4 @@
-module github.com/Erer1995/GoStudy
+module github.com/zzerer/GoStudy
 
 go 1.16
 
